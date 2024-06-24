@@ -24,7 +24,7 @@ Key Features:
 
 
 # Screenshots
-![image](https://github.com/kshitij1235/Gpu_monitor/assets/65331304/058bd92c-d659-4700-83ed-814294f5bdc8)
+![image](https://github.com/kshitij1235/Gpu_monitor/assets/65331304/a65d3981-6c26-4529-9148-2b1a33b72005)
 
 
 ## License
