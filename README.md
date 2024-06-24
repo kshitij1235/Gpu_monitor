@@ -6,20 +6,29 @@ This Python project utilizes Tkinter to create a desktop application that displa
 
 Key Features:
 
-Real-time Monitoring: Constantly updates and displays GPU statistics.
-Customizable Display: Compact layout that stays on top of all windows.
-Minimalistic Design: Lightweight and efficient, designed for seamless integration into any desktop environment.
-Open-Source: Available for contribution and customization on GitHub.
-Usage:
+- Real-time Monitoring: Constantly updates and displays GPU statistics.
+- Customizable Display: Compact layout that stays on top of all windows.
+- Minimalistic Design: Lightweight and efficient, designed for seamless integration into any desktop environment.
+- Open-Source: Available for contribution and customization on GitHub.
+
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/kshitij1235/Gpu_monitor.git
+   count_stats.exe
+   ```
+
 
 # Screenshots
 ![image](https://github.com/kshitij1235/Gpu_monitor/assets/65331304/058bd92c-d659-4700-83ed-814294f5bdc8)
 
 
-License:
-This project is licensed under the `[MIT License](https://github.com/kshitij1235/Gpu_monitor/tree/main?tab=MIT-1-ov-file)` - see the LICENSE file for details.
+## License
 
-
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/kshitij1235/Gpu_monitor/main/LICENSE) file for more details.
 
 
 
