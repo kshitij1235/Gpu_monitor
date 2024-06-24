@@ -17,7 +17,7 @@ Usage:
 
 
 License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the `[MIT License](https://github.com/kshitij1235/Gpu_monitor/tree/main?tab=MIT-1-ov-file)` - see the LICENSE file for details.
 
 
 
