@@ -1,6 +1,7 @@
-# Gpu_monitor
+# ![Group 8](https://github.com/kshitij1235/Gpu_monitor/assets/65331304/eaf7c644-5c1a-481e-ba62-f0f4508b8a15) Gpu_monitor 
 
-GPU Stats Display with Tkinter
+GPU Stats 
+Display with Tkinter
 
 This Python project utilizes Tkinter to create a desktop application that displays real-time GPU statistics. The application shows crucial GPU metrics such as utilization, temperature, memory usage, and more in a compact and user-friendly interface. Designed to be lightweight and non-intrusive, it sits at the topmost layer of your screen, providing continuous updates without disrupting your workflow.
 
