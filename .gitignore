@@ -1,0 +1,8 @@
+.vscode
+build
+dist
+*.spec
+temp.py
+tempCodeRunnerFile.*
+_pycache__/
+*.pyc
